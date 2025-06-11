@@ -31,23 +31,23 @@
 
 
 // ==========Question no 7: Student Bio data===============
-//  var studentName = "Hashir";
-//  var age = 20;
-//  var institute = "SMIT";
-//  var course = "Modern Website & Mobile App Development";
-//  console.log(studentName + " " +  age + " " + institute + " "+ course);
+ var studentName = "Hashir";
+  var age = 20;
+  var institute = "SMIT";
+  var course = "Modern Website & Mobile App Development";
+  console.log(studentName + " " +  age + " " + institute + " "+ course);
 
 // ===========Question no 8 own age in console=================
 
-// var age = 30;
-// console.log("I am " + age + " years old.");
+ var age = 30;
+ console.log("I am " + age + " years old.");
 
 // ===========Question no 9/ Birth year============
-// var myBirthYear = 2000;
-// alert("My birth year is " + myBirthYear + "\n" +"Data type of my declared in number");
+ var myBirthYear = 2000;
+ alert("My birth year is " + myBirthYear + "\n" +"Data type of my declared in number");
 // ===============Question no 10/ one js varibale multiple line breaking================
-// var lineBreaking = "pizz \npizz \npiz \npi \np";
-// console.log(lineBreaking);
+ var lineBreaking = "pizz \npizz \npiz \npi \np";
+ console.log(lineBreaking);
 
 // ============Question no 11 Fortune Teller===============
 // var numberOfChildern = 3;
